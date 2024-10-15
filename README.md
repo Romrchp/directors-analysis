@@ -67,36 +67,12 @@ Distributions were studied with regard to the director score, the character type
 ### Natural Language Processing
 Following [*Learning Latent Personas of Film Characters*](https://www.cs.cmu.edu/~dbamman/pubs/pdf/bamman+oconnor+smith.acl13.pdf), from the NLP data of movie summaries, we extract characters. For each character, we find the associated dependency of type: agent, patient, attribute. Then, we generate bags of words and do LDA to get the latent personas.
 
-## Timeline of the project
-
-
-| Deadline   | Question #1                                                                                                                           | Question #2                                                                              | Question #3                                                                              |
-|------------|---------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
-| 3.12.2023  | 1. Working on the original datasets final cleaning<br>2. Cleaning & unifying the codes <br> General : decide on success and popularity metrics.                    | Same as Q1                                                                               | Same as Q1                                                                               |
-| 10.12.2023 | 1.Assessing the directors to study in the analysis<br>2. Building different functions to make the analysis possible<br>3. Starting to prepare the dataframes & objects for the visualizations. 4. Starting to work on the first sub-question of Q1 | 1. Prepare the Dataframes for vizsualizations <br> 2. Check the diversity of the genres per director | 1. Decide on how exactly to use the Persona's data with respect to directors<br> 2.  Prepare the dataframes and preliminary visualizations. |
-| 17.12.2023 | 1. Finishing all Q1-related data preprocessing<br>2. Tackling the actual research questions.;<br>3. Starting to work on the visualizations                                            | 1. Assess the link the director's style to success<br>2. Enhance the visualizations       <br>3. Explore director's activity consistency regarding genres           | 1. Assess the director's personas choices<br>2. Link it to the success of the movies/directors                 |
-| 22.12.2023 | 1. Finalize the visualizations;<br>2. Writing the data story for Q1.<br>3. Tidy the notebooks properly                                          | Same as Q1                                                                               | Same as Q1                                                                               |
-
-
-## Organization within the team
-
-**Arthur** : working on an NLP original analysis for characters persona extraction. Helping on data pre-processing + web-crawling, extensive cleaning the various datasets for general use, and unifying the codes. Website maintenance & updates.
-
-**Clémence** : Helped on the data pre-processing for general uses, working on Q2 research questions (Correlational Analyses + Visualizations)
-
-**Chun Tzu** : Helped for the NLP original analysis for characters persona extraction & general data pre-processing. Handling the resolution of our third research question + writing data story for Q3.
-
-**Sepehr** : Matching IMDb & CMU, additional pre-processing, helping on setting up the website, working/investigating on success metrics, working on the overall Q2 + Writing the data story for Q2 + introduction.
-
-**Romain** : General data pre-processing + web-crawling, helping on the success metrics work, handling the Q1 research question + writing the data story for Q1 + conclusion.
-
-
 ## Authors
 
 ***CrunchyChicken* group - Advanced Data Science (CS-401) 2023**
 
-- [Chang Chun-Tzu](mailto:chun-tzu.chang@epfl.ch) (SCIPER 351986):
-- [Arthur Lamour](mailto:arthur.lamour@epfl.ch) (SCIPER 300443)
-- [Clémence Mayaux](mailto:clemence.mayaux@epfl.ch) (SCIPER 300278)
-- [Sepehr Mousavi](mailto:sepehr.mousavi@epfl.ch) (SCIPER 338673)
-- [Romain Rochepeau](mailto:romain.rochepeau@epfl.ch) (SCIPER 300574)
+- [Chang Chun-Tzu](mailto:chun-tzu.chang@epfl.ch)
+- [Arthur Lamour](mailto:arthur.lamour@epfl.ch) 
+- [Clémence Mayaux](mailto:clemence.mayaux@epfl.ch) 
+- [Sepehr Mousavi](mailto:sepehr.mousavi@epfl.ch) 
+- [Romain Rochepeau](mailto:romain.rochepeau@epfl.ch) 
