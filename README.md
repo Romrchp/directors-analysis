@@ -1,6 +1,6 @@
 # Frames of success :  Diving into the minds of movie wizards
 
-## A Data Story of the project, detailing our work and results is available [here!](https://epfl-ada.github.io/ada-2023-project-crunchychicken/)
+## A Data Story of the project, detailing work and core results is available [here!](https://epfl-ada.github.io/ada-2023-project-crunchychicken/)
 
 #### The data used for the project is downloadable [here](https://drive.google.com/drive/folders/1MjRoBM-AJgTZPzMtvTxL-H9mFcC2Ld6P?usp=sharing)
 
