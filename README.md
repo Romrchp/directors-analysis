@@ -92,11 +92,16 @@ For Question 3 specifically, following [*Learning Latent Personas of Film Charac
 
 - 📒 `Q3.ipynb` : Same, but for Q3.
 
+## Run Instructions
+
+To obtain and display the results present in the data story, you should have stored all data & necessary preprocessed files in the three 📂 [generated](generated/), [data](data/) & [pipelines](pipelines/).
+
+Then, running the three Q1, Q2 and Q3 notebooks should yield the results obtained in the data story. Some cells take ~30 minutes to run, the total running time should be of 2-3 hours on a standard machine.
 
 
 ## Authors
 
-***CrunchyChicken* group - Advanced Data Science (CS-401) 2023**
+**Advanced Data Science (CS-401) 2023**
 
 - [Chang Chun-Tzu](mailto:chun-tzu.chang@epfl.ch)
 - [Arthur Lamour](mailto:arthur.lamour@epfl.ch) 
